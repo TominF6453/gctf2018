@@ -4,4 +4,6 @@ Completions of CTF challenges in Google CTF 2018. Just for fun. [Link.](https://
 Completed challenges will be listed here, as well as the folder they are contained in.
 ### Beginner Challenges
 ###### LETTER
+Highlight the password field on the given pdf file.
 ###### OCR_IS_COOL
+Body of email is caesar encrypted, find the string similar to CTF{text} and solve the caesar substitution.
