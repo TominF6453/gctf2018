@@ -13,3 +13,5 @@ foo.ico is hidden zip file, unzip to find driver.txt which contains the CTF{flag
 Connecting gives you a man page, you can use ![command] to execute shell commands and explore the server. There's a shell script which prints out the flag.
 ##### SECURITY BY OBSCURITY
 Heavily nested set of zips, bz2s, etc... Simply continue to uncompress until you come across the password protected .zip. Used JohnTheRipper password cracking to open, containing a txt file with the flag.
+##### FLOPPY2
+Using dosbox to redirect output of www.com to a file and hexdumping it reveals the flag.
